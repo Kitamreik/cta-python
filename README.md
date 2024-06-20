@@ -15,24 +15,44 @@ New to Python? No problem! Read my deep dive documentation here: https://docs.go
 <hr>
 
 ## Lab 2
--Variables
+- Variables
 
 <hr>
 
 ## Lab 3
--Conditionals
+- Conditionals
 
 <hr>
 
 ## Lab 4
--Loops
+- Loops
 
 <hr>
 
 ## Lab 5
--Functions
+- Functions
 Part 1: Define and Calling Functions
 
 Part 2: Creating More Functions
+
+<hr>
+
+## Lab 6
+- Strings
+
+<hr>
+
+## Lab 7
+- Developing Algorithms
+
+<hr>
+
+## Lab 8
+- Loops
+
+<hr>
+
+## Lab 9
+- Using Regular Expressions (Regex)
 
 <hr>
