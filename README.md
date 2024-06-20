@@ -30,4 +30,9 @@ New to Python? No problem! Read my deep dive documentation here: https://docs.go
 <hr>
 
 ## Lab 5
--Loops
+-Functions
+Part 1: Define and Calling Functions
+
+Part 2: Creating More Functions
+
+<hr>
