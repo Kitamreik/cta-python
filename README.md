@@ -5,7 +5,7 @@ All work will be complied in Juypter Notebooks. These labs were a part of the re
 New to Python? No problem! Read my deep dive documentation here: https://docs.google.com/document/d/1CPbBcYf5F1Pl_Rl3Pgrli5H2bR-0KSfiIOisOPO6aT4/edit?usp=sharing
 
 # File and Folder Directory
-<h1>Lab 1</h1>
+## Lab 1
 
 - Print: contains three different files: 
 1. the original Lab Activity in Python 
@@ -14,15 +14,20 @@ New to Python? No problem! Read my deep dive documentation here: https://docs.go
 
 <hr>
 
-<h1>Lab 2</h1>
+## Lab 2
 -Variables
 
 <hr>
 
-<h1>Lab 3</h1>
+## Lab 3
 -Conditionals
 
 <hr>
 
-<h1>Lab 4</h1>
+## Lab 4
+-Loops
+
+<hr>
+
+## Lab 5
 -Loops
