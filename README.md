@@ -17,3 +17,12 @@ New to Python? No problem! Read my deep dive documentation here: https://docs.go
 <h1>Lab 2</h1>
 -Variables
 
+<hr>
+
+<h1>Lab 3</h1>
+-Conditionals
+
+<hr>
+
+<h1>Lab 4</h1>
+-Loops
