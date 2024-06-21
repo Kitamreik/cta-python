@@ -33,7 +33,7 @@ New to Python? No problem! Read my deep dive documentation here: https://docs.go
 - Functions
 Part 1: Define and Calling Functions
 
-Part 2: Creating More Functions
+- Part 2: Creating More Functions
 
 <hr>
 
@@ -54,5 +54,15 @@ Part 2: Creating More Functions
 
 ## Lab 9
 - Using Regular Expressions (Regex)
+
+<hr>
+
+## Lab 10
+- Files: Writing and Reading in Python
+
+<hr>
+
+## Lab 11
+- Advanced Algorithms (located in algorithm folder)
 
 <hr>
